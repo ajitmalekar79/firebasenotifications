@@ -93,8 +93,7 @@ class FirebaseNotificationService {
             ),
         headers: <String, String>{
           'Content-Type': 'application/json; charset=UTF-8',
-          'Authorization':
-              'key=AAAAFY6FzRE:APA91bEL4lozYgnsfiprxQvUggUrbrWsnpQy2ghnixBIhzEPvYj1h1s8_GQ9zcZyjQQZR-AEL1WGoFPEvgr3X2zH-QY9u6gOlO4zpiDeKyxDSL5IEL0V9FqithY9YVJBCzRPEQQTPSev'
+          'Authorization': "Server Key"
         },
         body: jsonEncode(newBody),
       );
