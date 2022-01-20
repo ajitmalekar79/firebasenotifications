@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "92585446673",
+    "firebase_url": "https://triple-rookery-226605.firebaseio.com",
+    "project_id": "triple-rookery-226605",
+    "storage_bucket": "triple-rookery-226605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92585446673:android:1b6bfe8a247ec3012210b0",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotiftest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2WO5g-6TGcdOhYAMei995JyWJ0pw1CC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
